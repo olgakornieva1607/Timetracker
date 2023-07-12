@@ -1,3 +1,3 @@
-Timetracker
+# ToDo app with Timetracker
 
-Aplikacja służy do zarządzania listą zadań, notowania operacji jakie należy wykonać w ramach danego zadania, oraz czasu jaki użytkownik spędził realizując każde z nich.
+A time management application. The app will allow you to add tasks (each one has a title and description), and add the detailed operations you need to complete the task.
